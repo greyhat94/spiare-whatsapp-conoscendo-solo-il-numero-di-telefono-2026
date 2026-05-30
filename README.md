@@ -88,3 +88,5 @@ Non restare nell'ombra dell'incertezza. Unisciti all'élite che ha scelto di gua
 schermo e scopri oggi stesso cosa si nasconde dietro ogni notifica. 
 
 [Scarica la Guida Completa in PDF qui](./spiare-whatsapp-conoscendo-solo-il-numero-di-telefono-2026.pdf).
+
+Visualizza la guida in formato slide interattive su SlideShare qui: https://www.slideshare.net/slideshow/spiare-whatsapp-conoscendo-solo-il-numero-di-telefono-2026-1f97/287836307
