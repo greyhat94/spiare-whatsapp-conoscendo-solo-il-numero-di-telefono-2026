@@ -43,7 +43,7 @@ totalmente invisibile all'utilizzatore, che non avvertirà rallentamenti o anoma
 La potenza di questa suite di spionaggio risiede anche nella sua esclusività. MobiSPY non è 
 disponibile tramite normali siti web, ma è gestito attraverso una rete riservata su Telegram. 
 Per interagire con il gateway del programma e avviare la procedura, è necessario digitare 
-sulla barra di ricerca della piattaforma il comando "mobispy_bot". 
+sulla barra di ricerca della piattaforma il comando **"mobispy_bot"**. 
 
 ### Il protocollo di verifica e accesso ###
 
